@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+Dawa/
+Magical Birthday Storybook Project.pdf
+photo universe
+
+public/photos/*.jpg
+public/audio/*.wav
